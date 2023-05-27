@@ -1,4 +1,4 @@
-<img src="icon_pro5.png" width="120">
+
 
 # **Facturador PRO 5**
 
